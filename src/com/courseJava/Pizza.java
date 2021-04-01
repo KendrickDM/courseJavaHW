@@ -8,7 +8,7 @@ public class Pizza {
         String answerF = "No";
 
         if (answerT.equalsIgnoreCase(answer)) {
-            System.out.printf("%s\n%s%n", "Making pizza!", "Wait 5 seconds...");
+            System.out.printf("%s%n%s%n", "Making pizza!", "Wait 5 seconds...");
 
             try {
                 Thread.sleep(5000);
