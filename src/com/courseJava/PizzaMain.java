@@ -3,7 +3,7 @@ package com.courseJava;
 import java.util.Scanner;
 import static com.courseJava.Pizza.eatPizza;
 
-public class PiizaMain {
+public class PizzaMain {
 
     public static void main(String[] args) {
 
